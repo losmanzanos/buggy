@@ -1,0 +1,5 @@
+.gitignore node_modules
+README.md Welcome to my project!
+Test Chad, you ROCK!
+.env NODE_ENV=development
+index.js console.log('Hello, world!');
